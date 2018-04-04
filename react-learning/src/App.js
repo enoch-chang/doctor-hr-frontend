@@ -4,7 +4,6 @@ import Toolbar from 'material-ui/Toolbar'
 import Typography from 'material-ui/Typography'
 import AppBar from 'material-ui/AppBar';
 import TitleBar from './TitleBar.js';
-import FetchData from './FetchData.js';
 import GetInfo from './TextInput.js';
 import { withStyles } from 'material-ui/styles';
 
